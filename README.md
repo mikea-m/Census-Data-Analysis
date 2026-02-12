@@ -1,1 +1,3 @@
 # Census-Data-Analysis
+
+This project uses US Census data to analyze the relationship between median household income and median housing value across Connecticut census tracts. This provides insight into drivers of local property tax revenue, which is essential for funding public services. The linear model created reveals a strong positive relationship between housing value and household income and explains 64% of variation in housing value across census tracts. The potential insight this analysis provides for municipal budgeting and policy direction is explored, as well as the model's limitations and suggestions for future analysis. 
